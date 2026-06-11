@@ -108,5 +108,3 @@ void setMotors(int speedL, int speedR) {
     analogWrite(motorB_1, 0); analogWrite(motorB_2, -speedR); 
   }
 }
-
-用這個改
